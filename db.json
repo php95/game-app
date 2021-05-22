@@ -6,7 +6,7 @@
             "description": "SURF the urban wave! Dodge the incoming",
             "downloads" : "300K",
             "company" : "SYBO Games",
-            "picture" : "Asphalt.png",
+            "picture" : "Bitmap.png",
             "rate" : 4.9,
             "recommend":"true",
             "popular":"false"
@@ -20,6 +20,17 @@
             "picture" : "scooby.png",
             "rate" : 4.3,
             "recommend":"true",
+            "popular":"true"
+        },
+        {   "id":3,
+            "title":"Boris and Dark survivor",
+            "category": "Racing",
+            "description": "Get in gear and take on the world’s best, most fearless street auto racer pros to become the next Asphalt Legend—from the creators of Asphalt 8: Airborne. You’re free to pick the dream car you need and race across spectacular locations against rival speed machines around the world.",
+            "downloads" : "200K",
+            "company" : "GameLoft",
+            "picture" : "Asphalt.png",
+            "rate" : 4.3,
+            "recommend":"false",
             "popular":"true"
         }
 

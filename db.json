@@ -20,7 +20,7 @@
             "picture" : "@/assets/scooby.png",
             "rate" : 4.3,
             "recommend":"true",
-            "popular":"false"
+            "popular":"true"
         }
 
 

@@ -6,7 +6,7 @@
             "description": "SURF the urban wave! Dodge the incoming",
             "downloads" : "300K",
             "company" : "SYBO Games",
-            "picture" : "@/assets/Bitmap.png",
+            "picture" : "Bitmap.png",
             "rate" : 4.9,
             "recommend":"true",
             "popular":"false"
@@ -17,7 +17,7 @@
             "description": "A lone wolf struggles to survive the inky abyss of Joey Drew Studios in this top-down survival horror.",
             "downloads" : "200K",
             "company" : "Disney Games",
-            "picture" : "@/assets/scooby.png",
+            "picture" : "scooby.png",
             "rate" : 4.3,
             "recommend":"true",
             "popular":"true"
